@@ -1,0 +1,23 @@
+ver: 0.0.1
+    Liftoff
+After a great idea that came too me whilst writing simpie bot I began fantesizing the great uses a bot
+could have to simplify an operating system. One of those uses is a commandline based package installer.
+I first wanted to implement this feature into simpie but because of the nature of this undertaking and its 
+size I decided to create a seperate program fully dedicated to operate as a package manager.
+
+ver: 0.0.2
+    91 the year it was set loose
+I started writing a simple terminal based bot that can respond to certain commands. Writing simpie teached
+me some very important lessons, and I learned a lot whilst writing that bot. I will now clarify my code
+more so that it is easier to read and understand. This will hopefully make it easier to join the project
+because reading code from a noobie developer is most of the time pure hell (like decoding an enigma).
+
+The foundation is layed for the pipline. I will make sure that the moment pipe is compiled for windows the first
+repos will be added. Yet I'm not sure which game I should start of with first. This will be a very interesting program
+to write and I'm looking forward to it.
+
+The pipe terminal can now gues the command that you tried typing just like simpiebot, this is because I'm using
+some code from that bot to get the Pipeline started. This will safe a lot of time and keep the project going.
+
+In september 17 1991 Linux Torvald released The free and open-source operating system Linux.
+I dedicate my 91 lines of code too him.
